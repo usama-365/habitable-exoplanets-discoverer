@@ -1,0 +1,19 @@
+{
+  "name": "habitable-exoplanets-discoverer",
+  "version": "1.0.0",
+  "description": "Uses the data provided by Kepler Space Shuttle to discover planets outside of the solar system that are habitable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usama-365/habitable-exoplanets-discoverer.git"
+  },
+  "author": "usama-365",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usama-365/habitable-exoplanets-discoverer/issues"
+  },
+  "homepage": "https://github.com/usama-365/habitable-exoplanets-discoverer#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/usama-365/habitable-exoplanets-discoverer/issues"
   },
-  "homepage": "https://github.com/usama-365/habitable-exoplanets-discoverer#readme"
+  "homepage": "https://github.com/usama-365/habitable-exoplanets-discoverer#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
 }
